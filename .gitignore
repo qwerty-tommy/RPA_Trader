@@ -2,7 +2,6 @@ __pycache__
 .idea
 .vscode
 pyvenv.cfg
-package-lock.json
 include/
 Lib/
 Scripts/
